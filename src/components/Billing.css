@@ -187,7 +187,7 @@
 .programming-t {
   flex: 1;
   font-size: var(--font-size-2xs);
-  color: #939498;
+  color: var(--color-gray-900);
 }
 .digital-marketin1 {
   align-self: stretch;
@@ -213,7 +213,7 @@
 }
 .writing-transla {
   flex: 1;
-  color: #929398;
+  color: var(--color-gray-1000);
   white-space: nowrap;
 }
 .business1,
@@ -270,7 +270,7 @@
   justify-content: flex-start;
   padding: var(--padding-12xs) 0 0;
   box-sizing: border-box;
-  color: #98999d;
+  color: var(--color-darkgray-1200);
 }
 .al-services1 {
   position: relative;
@@ -963,7 +963,7 @@
 .currency-selector-wrapper {
   width: 1072px;
   justify-content: flex-end;
-  padding: 0 19px var(--padding-4xl);
+  padding: 0 var(--padding-lgi) var(--padding-4xl);
   box-sizing: border-box;
   font-size: var(--font-size-2xs);
   color: var(--color-dimgray-300);

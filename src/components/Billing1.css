@@ -306,7 +306,7 @@
 }
 .business2 {
   width: 55px;
-  color: #94969a;
+  color: var(--color-darkgray-1400);
   display: flex;
   align-items: center;
   flex-shrink: 0;
@@ -365,7 +365,7 @@
   padding: var(--padding-base) var(--padding-xl) var(--padding-mini);
   box-sizing: border-box;
   gap: var(--gap-2xl);
-  background-image: url(/public/background@2x.png);
+  background-image: url(/public/background8@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -387,7 +387,7 @@
   gap: var(--gap-11xs);
   text-align: left;
   font-size: var(--font-size-6xl);
-  color: #4a4b4f;
+  color: var(--color-darkslategray-200);
   font-family: var(--font-inter);
 }
 .background20 {
@@ -470,7 +470,7 @@
   box-sizing: border-box;
   min-width: 76px;
   font-size: var(--font-size-smi);
-  color: #a7a9ae;
+  color: var(--color-darkgray-1100);
 }
 .payment-methods1 {
   flex: 1;
@@ -513,7 +513,7 @@
 .frame-parent28 {
   align-self: stretch;
   flex-direction: column;
-  gap: 42px;
+  gap: var(--gap-23xl);
   font-size: var(--font-size-xs);
   color: #a8aaae;
 }
@@ -768,7 +768,7 @@
   flex-direction: row;
   padding: 0 var(--padding-11xs) var(--padding-xl);
   box-sizing: border-box;
-  color: #5c5d60;
+  color: var(--color-dimgray-700);
 }
 .address1 {
   flex: 1;
@@ -936,7 +936,7 @@
   box-sizing: border-box;
   position: relative;
   gap: var(--gap-13xl);
-  background-image: url(/public/image@2x.png);
+  background-image: url(/public/image8@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;

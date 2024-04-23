@@ -187,7 +187,7 @@
   align-self: stretch;
   align-items: flex-start;
   justify-content: center;
-  padding: 0 22px 0 var(--padding-xl);
+  padding: 0 var(--padding-3xl) 0 var(--padding-xl);
   box-sizing: border-box;
 }
 .background-icon1 {
@@ -349,7 +349,7 @@
   gap: var(--gap-9xs);
   text-align: left;
   font-size: var(--font-size-6xl);
-  color: #4c4d51;
+  color: var(--color-dimgray-800);
   font-family: var(--font-inter);
 }
 .background1,
@@ -1876,7 +1876,7 @@
     gap: var(--gap-lg);
   }
   .prioritizer {
-    gap: 33px;
+    gap: var(--gap-14xl);
   }
 }
 @media screen and (max-width: 450px) {
