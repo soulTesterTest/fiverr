@@ -11,27 +11,43 @@ body {
   --font-size-2xs: 0.688rem;
   --font-size-3xs: 0.625rem;
   --font-size-4xs: 0.563rem;
+  --font-size-lg: 1.125rem;
   --font-size-xs: 0.75rem;
   --font-size-smi: 0.813rem;
   --font-size-lgi: 1.188rem;
+  --font-size-6xl: 1.563rem;
 
   /* Colors */
+  --color-gray-400: #fffeff;
+  --color-gray-500: rgba(254, 254, 254, 1);
   --color-gray-100: #fefefe;
   --color-gray-200: #919397;
   --color-gray-300: rgba(0, 0, 0, 0);
   --color-darkslategray-100: #464749;
+  --color-darkgray-400: #a8aaaf;
+  --color-darkgray-500: #a2a3a7;
   --color-darkgray-100: #9fa0a1;
   --color-darkgray-200: #9a9b9f;
   --color-darkgray-300: #96979b;
   --color-sienna-100: #975f33;
   --color-navajowhite: #fedfb2;
+  --color-dimgray-100: #6a6b6e;
+  --color-dimgray-200: #636367;
+  --color-dimgray-300: #5f6063;
+  --color-dimgray-400: #58585c;
   --color-whitesmoke-100: #f4f4f4;
+  --color-lightgray-100: #d3d4d6;
+  --color-lightgray-200: #d1d2d5;
   --color-lightgray: #c5d3c9;
+  --color-gainsboro-200: #e3e4e5;
+  --color-gainsboro-300: #e2e3e4;
+  --color-gainsboro-400: #e1e2e3;
   --color-gainsboro-100: #e1e1e3;
   --color-silver-100: #a7c0af;
   --color-darkolivegreen-100: #245b35;
   --color-darkolivegreen-200: #235b35;
   --color-seagreen: #246239;
+  --color-white: #fff;
 
   /* Gaps */
   --gap-xl: 1.25rem;
@@ -46,7 +62,10 @@ body {
   --gap-3xl: 1.375rem;
   --gap-mini: 0.937rem;
   --gap-4xs: 0.562rem;
+  --gap-12xs: 0.062rem;
   --gap-4xl: 1.437rem;
+  --gap-2xl: 1.312rem;
+  --gap-10xs: 0.187rem;
 
   /* Paddings */
   --padding-5xs: 0.5rem;
@@ -74,4 +93,7 @@ body {
   --br-7xs-5: 5.5px;
   --br-6xs: 7px;
   --br-7xs: 6px;
+  --br-10xs-3: 2.3px;
+  --br-10xs: 3px;
+  --br-11xs-5: 1.5px;
 }

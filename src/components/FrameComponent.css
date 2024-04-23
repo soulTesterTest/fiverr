@@ -1,4 +1,4 @@
-.image-icon34 {
+.image-icon46 {
   height: 123px;
   width: 200px;
   position: relative;
@@ -6,14 +6,14 @@
   object-fit: cover;
   display: none;
 }
-.image-icon35 {
+.image-icon47 {
   height: 23px;
   width: 24px;
   position: relative;
   object-fit: contain;
   z-index: 2;
 }
-.image-parent6 {
+.image-parent7 {
   flex: 1;
   border-radius: var(--br-8xs-5);
   display: flex;
