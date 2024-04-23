@@ -644,7 +644,7 @@
   width: 100%;
   height: 100%;
   max-width: 100%;
-  font-size: 24px;
+  font-size: var(--font-size-5xl);
   color: #ebf0ed;
 }
 .stack-manager {
@@ -776,7 +776,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   padding: var(--padding-xs) var(--padding-smi);
-  gap: 12px;
+  gap: var(--gap-xs);
   white-space: nowrap;
   z-index: 1;
 }
@@ -852,7 +852,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 15px 16px 90px;
+  padding: var(--padding-mini) var(--padding-base) 90px;
   box-sizing: border-box;
   background-image: url(/public/image3@2x.png);
   background-size: cover;
@@ -999,7 +999,7 @@
 .frame-parent2 {
   width: 174px;
   flex-direction: column;
-  gap: 31px;
+  gap: var(--gap-12xl);
 }
 .bojan-san,
 .image-icon23 {
@@ -1335,7 +1335,7 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  gap: 2px;
+  gap: var(--gap-11xs);
   min-width: 272px;
   max-width: 100%;
 }
@@ -1725,7 +1725,7 @@
 .i-will-cre-ate-a-parent {
   align-self: stretch;
   padding: 0 var(--padding-9xs) 0 0;
-  gap: 14px;
+  gap: var(--gap-sm);
   color: #808083;
 }
 .output-collector {

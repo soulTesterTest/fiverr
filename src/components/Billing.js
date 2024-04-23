@@ -21,7 +21,7 @@ const Billing = () => {
                   <img
                     className="background-icon7"
                     alt=""
-                    src="/background@2x.png"
+                    src="/background6@2x.png"
                   />
                   <img
                     className="image-icon34"
