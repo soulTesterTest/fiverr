@@ -2,11 +2,11 @@ import "./FrameComponent11.css";
 
 const FrameComponent1 = () => {
   return (
-    <div className="frame-parent121">
-      <div className="frame-wrapper108">
-        <div className="frame-parent122">
-          <div className="frame-wrapper109">
-            <div className="frame-parent123">
+    <div className="frame-parent134">
+      <div className="frame-wrapper123">
+        <div className="frame-parent135">
+          <div className="frame-wrapper124">
+            <div className="frame-parent136">
               <div className="image-38-wrapper">
                 <img
                   className="image-38-icon"
@@ -15,11 +15,11 @@ const FrameComponent1 = () => {
                   src="/image-381@2x.png"
                 />
               </div>
-              <div className="frame-parent124">
+              <div className="frame-parent137">
                 <div className="personal-nfo-wrapper">
                   <div className="personal-nfo">Personal nfo</div>
                 </div>
-                <div className="frame-wrapper110">
+                <div className="frame-wrapper125">
                   <div className="image-39-parent">
                     <img
                       className="image-39-icon"
@@ -52,11 +52,11 @@ const FrameComponent1 = () => {
           </div>
         </div>
       </div>
-      <div className="frame-parent125">
+      <div className="frame-parent138">
         <div className="professlonal-info-wrapper">
           <h2 className="professlonal-info">Professlonal Info</h2>
         </div>
-        <div className="frame-parent126">
+        <div className="frame-parent139">
           <div className="hiis-yortimetoshine-et-poten-b-parent">
             <div className="hiis-yortimetoshine-et">
               hiis yortimetoshine et poten buyerswwhat youdo
@@ -71,22 +71,22 @@ const FrameComponent1 = () => {
           </div>
         </div>
       </div>
-      <div className="frame-wrapper111">
+      <div className="frame-wrapper126">
         <div className="your-ocoupation-parent">
           <div className="your-ocoupation">Your Ocoupation*</div>
-          <div className="frame-wrapper112">
-            <div className="frame-parent127">
-              <div className="frame-parent128">
-                <div className="frame-parent129">
-                  <div className="frame-wrapper113">
-                    <div className="frame-parent130">
+          <div className="frame-wrapper127">
+            <div className="frame-parent140">
+              <div className="frame-parent141">
+                <div className="frame-parent142">
+                  <div className="frame-wrapper128">
+                    <div className="frame-parent143">
                       <div className="progarmingtech-wrapper">
                         <div className="progarmingtech">{`Progarming&Tech`}</div>
                       </div>
                       <div className="eysinmnech">eysinmnech</div>
                     </div>
                   </div>
-                  <div className="frame-parent131">
+                  <div className="frame-parent144">
                     <div className="caret-down-1-wrapper">
                       <img
                         className="caret-down-1"
@@ -96,8 +96,8 @@ const FrameComponent1 = () => {
                       />
                     </div>
                     <div className="data-aggregator-parent">
-                      <div className="data-aggregator2">
-                        <div className="from1">From</div>
+                      <div className="data-aggregator3">
+                        <div className="from2">From</div>
                       </div>
                       <div className="button-23">
                         <div className="year">Year</div>
@@ -122,96 +122,96 @@ const FrameComponent1 = () => {
                     </div>
                   </div>
                 </div>
-                <div className="frame-wrapper114">
-                  <div className="frame-parent132">
-                    <div className="frame-parent133">
-                      <div className="frame-wrapper115">
-                        <div className="frame-parent134">
+                <div className="frame-wrapper129">
+                  <div className="frame-parent145">
+                    <div className="frame-parent146">
+                      <div className="frame-wrapper130">
+                        <div className="frame-parent147">
                           <div className="rectangle-wrapper3">
-                            <div className="rectangle13" />
+                            <div className="rectangle14" />
                           </div>
                           <div className="al-applications">Al Applications</div>
                         </div>
                       </div>
-                      <div className="frame-parent135">
+                      <div className="frame-parent148">
                         <div className="rectangle-wrapper4">
-                          <div className="rectangle14" />
+                          <div className="rectangle15" />
                         </div>
                         <div className="blockchain-cryptocurrency">{`Blockchain &: Cryptocurrency`}</div>
                       </div>
                     </div>
-                    <div className="frame-parent136">
-                      <div className="frame-wrapper116">
-                        <div className="frame-parent137">
+                    <div className="frame-parent149">
+                      <div className="frame-wrapper131">
+                        <div className="frame-parent150">
                           <div className="rectangle-wrapper5">
-                            <div className="rectangle15" />
+                            <div className="rectangle16" />
                           </div>
                           <div className="convert-files">Convert Files</div>
                         </div>
                       </div>
-                      <div className="frame-parent138">
+                      <div className="frame-parent151">
                         <div className="rectangle-wrapper6">
-                          <div className="rectangle16" />
+                          <div className="rectangle17" />
                         </div>
                         <div className="cybersecurity-data">{`Cybersecurity & Data Protection`}</div>
                       </div>
                     </div>
-                    <div className="frame-parent139">
-                      <div className="frame-wrapper117">
-                        <div className="frame-parent140">
+                    <div className="frame-parent152">
+                      <div className="frame-wrapper132">
+                        <div className="frame-parent153">
                           <div className="rectangle-wrapper7">
-                            <div className="rectangle17" />
+                            <div className="rectangle18" />
                           </div>
                           <div className="devops-cioud">{`Devops & Cioud`}</div>
                         </div>
                       </div>
-                      <div className="frame-parent141">
+                      <div className="frame-parent154">
                         <div className="rectangle-wrapper8">
-                          <div className="rectangle18" />
+                          <div className="rectangle19" />
                         </div>
                         <div className="development-for-streamers">
                           Development for Streamers
                         </div>
                       </div>
                     </div>
-                    <div className="frame-parent142">
-                      <div className="frame-wrapper118">
-                        <div className="frame-parent143">
+                    <div className="frame-parent155">
+                      <div className="frame-wrapper133">
+                        <div className="frame-parent156">
                           <div className="rectangle-wrapper9">
-                            <div className="rectangle19" />
+                            <div className="rectangle20" />
                           </div>
                           <div className="game-development">
                             Game Development
                           </div>
                         </div>
                       </div>
-                      <div className="frame-parent144">
+                      <div className="frame-parent157">
                         <div className="rectangle-wrapper10">
-                          <div className="rectangle20" />
+                          <div className="rectangle21" />
                         </div>
                         <div className="mobile-apps">Mobile Apps</div>
                       </div>
                     </div>
                     <div className="shape-container">
                       <div className="shape-container-inner">
-                        <div className="frame-parent145">
-                          <div className="frame-parent146">
+                        <div className="frame-parent158">
+                          <div className="frame-parent159">
                             <div className="rectangle-wrapper11">
-                              <div className="rectangle21" />
+                              <div className="rectangle22" />
                             </div>
                             <div className="online-ooding-lessons">
                               Online Ooding Lessons
                             </div>
                           </div>
-                          <div className="frame-parent147">
+                          <div className="frame-parent160">
                             <div className="rectangle-wrapper12">
-                              <div className="rectangle22" />
+                              <div className="rectangle23" />
                             </div>
                             <div className="user-testing">User Testing</div>
                           </div>
-                          <div className="frame-parent148">
+                          <div className="frame-parent161">
                             <div className="rectangle-wrapper13">
-                              <div className="rectangle23" />
+                              <div className="rectangle24" />
                             </div>
                             <div className="webaite-maintenance">
                               Webaite Maintenance
@@ -228,7 +228,7 @@ const FrameComponent1 = () => {
                         </div>
                         <div className="image-bank1">
                           <div className="rectangle-wrapper14">
-                            <div className="rectangle24" />
+                            <div className="rectangle25" />
                           </div>
                           <div className="web-progamming">Web Progamming</div>
                         </div>
@@ -252,13 +252,13 @@ const FrameComponent1 = () => {
                   </div>
                   <div className="gradient-container1">
                     <div className="rectangle-wrapper15">
-                      <div className="rectangle25" />
+                      <div className="rectangle26" />
                     </div>
                     <div className="dektop-pliatin">Dektop pliatin</div>
                   </div>
                   <div className="gradient-container2">
                     <div className="rectangle-wrapper16">
-                      <div className="rectangle26" />
+                      <div className="rectangle27" />
                     </div>
                     <div className="ectronics-engneering">
                       ectronics Engneering
@@ -266,19 +266,19 @@ const FrameComponent1 = () => {
                   </div>
                   <div className="gradient-container3">
                     <div className="rectangle-wrapper17">
-                      <div className="rectangle27" />
+                      <div className="rectangle28" />
                     </div>
                     <div className="nft-development">NFT Development</div>
                   </div>
                   <div className="gradient-container4">
                     <div className="rectangle-wrapper18">
-                      <div className="rectangle28" />
+                      <div className="rectangle29" />
                     </div>
                     <div className="support-it">{`support& IT`}</div>
                   </div>
                   <div className="gradient-container5">
                     <div className="rectangle-wrapper19">
-                      <div className="rectangle29" />
+                      <div className="rectangle30" />
                     </div>
                     <div className="website-development">
                       Website Development

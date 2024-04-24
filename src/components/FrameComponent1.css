@@ -18,7 +18,7 @@
   display: inline-block;
   min-width: 7.125rem;
 }
-.frame-parent120 {
+.frame-parent133 {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -33,7 +33,7 @@
   flex-shrink: 0;
   debug_commit: 1de1738;
 }
-.frame-parent119,
+.frame-parent132,
 .welnever-share-your-phone-num-wrapper {
   display: flex;
   align-items: flex-start;
@@ -47,7 +47,7 @@
   font-size: var(--font-size-mini);
   color: var(--color-silver-300);
 }
-.frame-parent119 {
+.frame-parent132 {
   width: 16.125rem;
   flex-direction: column;
 }
@@ -94,7 +94,7 @@
   color: var(--color-white);
 }
 .button-19-parent,
-.frame-wrapper107 {
+.frame-wrapper122 {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -103,12 +103,12 @@
   align-items: flex-end;
   gap: var(--gap-39xl);
 }
-.frame-wrapper107 {
+.frame-wrapper122 {
   align-items: flex-start;
   padding: var(--padding-xs) 0 0;
   color: var(--color-dimgray-1100);
 }
-.frame-parent118 {
+.frame-parent131 {
   align-self: stretch;
   display: flex;
   flex-direction: row;
@@ -121,7 +121,7 @@
   font-family: var(--font-manrope);
 }
 @media screen and (max-width: 750px) {
-  .frame-parent118 {
+  .frame-parent131 {
     flex-wrap: wrap;
   }
 }

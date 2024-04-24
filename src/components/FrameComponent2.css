@@ -1,4 +1,4 @@
-.div39 {
+.div41 {
   position: relative;
   line-height: 1.5rem;
   display: inline-block;
@@ -19,7 +19,7 @@
   display: inline-block;
   min-width: 3.188rem;
 }
-.auto-layout-horizontal34 {
+.auto-layout-horizontal53 {
   border-radius: var(--br-9xs);
   background-color: var(--color-mediumseagreen-100);
   display: flex;
@@ -30,7 +30,7 @@
   font-size: var(--font-size-base);
   color: var(--color-white);
 }
-.frame-parent153 {
+.frame-parent166 {
   display: flex;
   flex-direction: column;
   align-items: flex-end;

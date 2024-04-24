@@ -4,13 +4,13 @@ const InputFilter = () => {
   return (
     <div className="input-filter">
       <div className="tree-splitter">
-        <div className="frame-parent152">
+        <div className="frame-parent165">
           <div className="conditional-parent">
             <div className="conditional">
               <div className="weighted-sum">
                 <div className="square-root">
                   <div className="maximum">
-                    <div className="video-animation1">{`Video & Animation`}</div>
+                    <div className="video-animation2">{`Video & Animation`}</div>
                   </div>
                   <div className="average">
                     <img
@@ -29,7 +29,7 @@ const InputFilter = () => {
                   </h2>
                   <div className="recursive">
                     <div className="auto-layout-horizontal-wrapper5">
-                      <div className="auto-layout-horizontal27">
+                      <div className="auto-layout-horizontal46">
                         <img
                           className="filter-map-icon"
                           alt=""
@@ -47,46 +47,46 @@ const InputFilter = () => {
                       <div className="level-2-seller6">Level 2 Seller</div>
                     </div>
                     <div className="wrapper15">
-                      <div className="div36">|</div>
+                      <div className="div38">|</div>
                     </div>
                     <div className="iterator2">
                       <img
-                        className="frame-icon83"
+                        className="frame-icon100"
                         alt=""
                         src="/frame-12.svg"
                       />
                     </div>
                     <div className="iterator3">
                       <img
-                        className="frame-icon84"
+                        className="frame-icon101"
                         alt=""
                         src="/frame-12.svg"
                       />
                     </div>
                     <div className="iterator4">
                       <img
-                        className="frame-icon85"
+                        className="frame-icon102"
                         alt=""
                         src="/frame-12.svg"
                       />
                     </div>
                     <div className="iterator5">
                       <img
-                        className="frame-icon86"
+                        className="frame-icon103"
                         alt=""
                         src="/frame-12.svg"
                       />
                     </div>
                     <div className="iterator6">
                       <img
-                        className="frame-icon87"
+                        className="frame-icon104"
                         alt=""
                         src="/frame-12.svg"
                       />
                     </div>
-                    <b className="b9">4.9</b>
+                    <b className="b11">4.9</b>
                     <div className="iterator7">
-                      <div className="div37">(902)</div>
+                      <div className="div39">(902)</div>
                     </div>
                     <div className="orders-in-queue">3 Orders in Queue</div>
                   </div>
@@ -151,9 +151,9 @@ const InputFilter = () => {
                     src="/frame-25.svg"
                   />
                 </div>
-                <div className="auto-layout-horizontal28">
+                <div className="auto-layout-horizontal47">
                   <div className="counting-sort">
-                    <div className="auto-layout-horizontal29">
+                    <div className="auto-layout-horizontal48">
                       <div className="a2">a</div>
                       <img
                         className="binary-search-icon"
@@ -161,7 +161,7 @@ const InputFilter = () => {
                         src="/frame-26@2x.png"
                       />
                     </div>
-                    <div className="rectangle39" />
+                    <div className="rectangle40" />
                   </div>
                   <div className="hash-table1">
                     <div className="linked-list1">
@@ -194,15 +194,15 @@ const InputFilter = () => {
           <div className="flexbox-container-parent">
             <div className="flexbox-container">
               <div className="grid-container">
-                <div className="auto-layout-horizontal-group">
-                  <div className="auto-layout-horizontal30">
+                <div className="auto-layout-horizontal-parent1">
+                  <div className="auto-layout-horizontal49">
                     <b className="basic1">Basic</b>
                   </div>
-                  <div className="auto-layout-horizontal-parent1">
-                    <div className="auto-layout-horizontal31">
+                  <div className="auto-layout-horizontal-parent2">
+                    <div className="auto-layout-horizontal50">
                       <b className="standard2">Standard</b>
                     </div>
-                    <div className="auto-layout-horizontal32">
+                    <div className="auto-layout-horizontal51">
                       <b className="premium1">Premium</b>
                     </div>
                   </div>
@@ -212,7 +212,7 @@ const InputFilter = () => {
                     <div className="tool-tip">
                       <b className="basic-promo1">BASIC PROMO</b>
                     </div>
-                    <div className="div38">₹868</div>
+                    <div className="div40">₹868</div>
                   </div>
                 </div>
               </div>
@@ -237,9 +237,9 @@ const InputFilter = () => {
                             <b className="days-delivery">4 Days Delivery</b>
                           </div>
                           <div className="rating-stars1">
-                            <div className="frame-wrapper123">
+                            <div className="frame-wrapper138">
                               <img
-                                className="frame-icon88"
+                                className="frame-icon105"
                                 alt=""
                                 src="/frame-28.svg"
                               />
@@ -247,7 +247,7 @@ const InputFilter = () => {
                             <b className="revision">1 Revision</b>
                           </div>
                         </div>
-                        <div className="frame70">
+                        <div className="frame74">
                           <div className="star-rating">
                             <img
                               className="tree-view-icon"
@@ -260,7 +260,7 @@ const InputFilter = () => {
                           </div>
                           <div className="star-rating1">
                             <img
-                              className="frame-icon89"
+                              className="frame-icon106"
                               alt=""
                               src="/frame-29.svg"
                             />
@@ -270,7 +270,7 @@ const InputFilter = () => {
                           </div>
                           <div className="star-rating2">
                             <img
-                              className="frame-icon90"
+                              className="frame-icon107"
                               alt=""
                               src="/frame-31.svg"
                             />
@@ -282,7 +282,7 @@ const InputFilter = () => {
                           </div>
                           <div className="star-rating3">
                             <img
-                              className="frame-icon91"
+                              className="frame-icon108"
                               alt=""
                               src="/frame-29.svg"
                             />
@@ -292,7 +292,7 @@ const InputFilter = () => {
                           </div>
                           <div className="star-rating4">
                             <img
-                              className="frame-icon92"
+                              className="frame-icon109"
                               alt=""
                               src="/frame-31.svg"
                             />
@@ -304,7 +304,7 @@ const InputFilter = () => {
                           </div>
                           <div className="star-rating5">
                             <img
-                              className="frame-icon93"
+                              className="frame-icon110"
                               alt=""
                               src="/frame-29.svg"
                             />
@@ -316,8 +316,8 @@ const InputFilter = () => {
                           </div>
                         </div>
                       </div>
-                      <div className="auto-layout-horizontal33">
-                        <div className="continue">Continue</div>
+                      <div className="auto-layout-horizontal52">
+                        <div className="continue1">Continue</div>
                         <img
                           className="color-picker-icon"
                           alt=""
@@ -359,7 +359,7 @@ const InputFilter = () => {
                 discuss everything and can arrange things according to your
                 requirements.
               </div>
-              <div className="data-aggregator3">
+              <div className="data-aggregator4">
                 <div className="logic-branch">
                   <div className="our-main-focus">
                     Our main focus is customer satisfaction, We
@@ -396,7 +396,7 @@ const InputFilter = () => {
                   What do I need in order to start work?
                 </b>
                 <div className="data-filter1">
-                  <div className="error-handler2">
+                  <div className="error-handler4">
                     <div className="variable-holder1">
                       <div className="logo1">Logo</div>
                       <div className="text-descriptions">Text Descriptions</div>

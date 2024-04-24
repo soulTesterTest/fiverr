@@ -15,13 +15,13 @@ const FrameComponent2 = ({ prop, propPadding, propMinWidth }) => {
   }, [propMinWidth]);
 
   return (
-    <div className="frame-parent153">
+    <div className="frame-parent166">
       <div className="wrapper16" style={frameDivStyle}>
-        <div className="div39" style={divStyle}>
+        <div className="div41" style={divStyle}>
           {prop}
         </div>
       </div>
-      <div className="auto-layout-horizontal34">
+      <div className="auto-layout-horizontal53">
         <div className="select1">Select</div>
       </div>
     </div>

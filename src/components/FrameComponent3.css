@@ -1,4 +1,4 @@
-.frame-icon97 {
+.frame-icon114 {
   height: 2rem;
   width: 2rem;
   position: relative;
@@ -12,7 +12,7 @@
   line-height: 1.5rem;
   white-space: nowrap;
 }
-.frame-parent158,
+.frame-parent171,
 .sellers-response-wrapper {
   display: flex;
   align-items: flex-start;
@@ -22,7 +22,7 @@
   flex-direction: column;
   padding: var(--padding-9xs) 0 0;
 }
-.frame-parent158 {
+.frame-parent171 {
   flex-direction: row;
   gap: var(--gap-xs);
 }
@@ -39,12 +39,12 @@
   font-size: var(--font-size-sm);
 }
 .auto-layout-vertical-inner8,
-.frame-parent157 {
+.frame-parent170 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frame-parent157 {
+.frame-parent170 {
   flex: 1;
   flex-direction: column;
   gap: var(--gap-xs);

@@ -1398,7 +1398,7 @@
 .layer-order {
   align-self: stretch;
   flex-direction: column;
-  gap: 0.743rem;
+  gap: var(--gap-xs-9);
   flex-shrink: 0;
   color: var(--color-dimgray-1200);
 }
@@ -4783,7 +4783,7 @@
   overflow: hidden;
   flex-shrink: 0;
   flex-direction: row;
-  padding: var(--padding-10xs-6) 0.406rem var(--padding-8xs-4);
+  padding: var(--padding-10xs-6) var(--padding-6xs-5) var(--padding-8xs-4);
   position: relative;
   z-index: 1;
 }
@@ -5897,7 +5897,7 @@
   max-width: 100%;
 }
 .frame40 {
-  background-color: #f5f5f5;
+  background-color: var(--color-whitesmoke-700);
   border-top: 1px solid var(--color-gainsboro-1000);
   box-sizing: border-box;
   display: flex;
@@ -5945,7 +5945,7 @@
 @media screen and (max-width: 1300px) {
   .frame40 {
     padding-top: var(--padding-25xl);
-    padding-bottom: 2.625rem;
+    padding-bottom: var(--padding-23xl);
     box-sizing: border-box;
   }
   .frame-main {
@@ -5961,7 +5961,7 @@
   }
   .blur-filter {
     padding-top: var(--padding-xl);
-    padding-bottom: 4.875rem;
+    padding-bottom: var(--padding-59xl);
     box-sizing: border-box;
   }
   .frame41 {

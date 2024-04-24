@@ -21,18 +21,18 @@ const Frame1 = ({
   }, [propMinWidth]);
 
   return (
-    <div className="frame72">
+    <div className="frame76">
       <img
-        className="frame-icon98"
+        className="frame-icon115"
         loading="lazy"
         alt=""
         src="/frame-117.svg"
       />
-      <div className="frame-inner10">
-        <div className="frame-parent159">
+      <div className="frame-inner11">
+        <div className="frame-parent172">
           <div className="auto-layout-horizontal-wrapper6">
-            <div className="auto-layout-horizontal35">
-              <img className="frame-icon99" alt="" src="/frame-118@2x.png" />
+            <div className="auto-layout-horizontal54">
+              <img className="frame-icon116" alt="" src="/frame-118@2x.png" />
               <div className="a-frame">
                 <div className="a3">a</div>
               </div>
@@ -50,17 +50,17 @@ const Frame1 = ({
         </div>
         <div className="shape-star-parent">
           <div className="shape-star">
-            <div className="frame-parent160">
-              <div className="frame-wrapper128">
-                <img className="frame-icon100" alt="" src="/frame-53.svg" />
+            <div className="frame-parent173">
+              <div className="frame-wrapper143">
+                <img className="frame-icon117" alt="" src="/frame-53.svg" />
               </div>
-              <div className="div42" style={div2Style}>
+              <div className="div44" style={div2Style}>
                 <b>{prop}</b>
                 <span className="span5">{prop1}</span>
               </div>
             </div>
           </div>
-          <div className="data-gatherer">
+          <div className="data-gatherer1">
             <div className="output-handler-wrapper">
               <div className="output-handler">
                 <img
@@ -77,7 +77,7 @@ const Frame1 = ({
             </div>
             <div className="function-linker">
               <b className="starting-at5">Starting at</b>
-              <div className="div43">₹868</div>
+              <div className="div45">₹868</div>
             </div>
           </div>
         </div>

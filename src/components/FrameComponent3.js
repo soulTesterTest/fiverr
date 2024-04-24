@@ -11,9 +11,9 @@ const FrameComponent = ({ thankYouSoMuch, propWidth, propPadding }) => {
 
   return (
     <div className="auto-layout-vertical-inner8" style={frameDiv2Style}>
-      <div className="frame-parent157">
-        <div className="frame-parent158">
-          <img className="frame-icon97" alt="" src="/frame-80@2x.png" />
+      <div className="frame-parent170">
+        <div className="frame-parent171">
+          <img className="frame-icon114" alt="" src="/frame-80@2x.png" />
           <div className="sellers-response-wrapper">
             <b className="sellers-response">Seller's Response</b>
           </div>

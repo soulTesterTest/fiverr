@@ -279,7 +279,7 @@
 .conversion-output-1-inner {
   width: 88.938rem;
   flex-direction: row;
-  padding: 0 2.187rem;
+  padding: 0 var(--padding-16xl);
   max-width: 100%;
   text-align: left;
   font-size: var(--font-size-base);

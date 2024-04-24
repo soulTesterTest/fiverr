@@ -1,4 +1,4 @@
-.frame-icon73 {
+.frame-icon90 {
   align-self: stretch;
   height: 1.688rem;
   position: relative;
@@ -6,7 +6,7 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-wrapper119 {
+.frame-wrapper134 {
   width: 7.563rem;
   display: flex;
   flex-direction: column;
@@ -25,7 +25,7 @@
   white-space: nowrap;
   max-width: 100%;
 }
-.frame67 {
+.frame71 {
   width: 50.481rem;
   border-radius: var(--br-9xs) 0 0 var(--br-9xs);
   background-color: var(--color-white);
@@ -40,7 +40,7 @@
   padding: var(--padding-2xs) var(--padding-mid) var(--padding-10xs);
   max-width: 100%;
 }
-.frame-icon74 {
+.frame-icon91 {
   height: 1rem;
   width: 1rem;
   position: relative;
@@ -48,12 +48,12 @@
   flex-shrink: 0;
 }
 .auto-layout-horizontal-wrapper3,
-.auto-layout-horizontal18 {
+.auto-layout-horizontal37 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.auto-layout-horizontal18 {
+.auto-layout-horizontal37 {
   border-radius: 0 var(--br-9xs) var(--br-9xs) 0;
   background-color: var(--color-gray-1700);
   flex-direction: row;
@@ -63,14 +63,14 @@
   flex-direction: column;
   padding: 0 var(--padding-13xl) 0 0;
 }
-.frame-icon75 {
+.frame-icon92 {
   height: 1.188rem;
   width: 1.188rem;
   position: relative;
   overflow: hidden;
   flex-shrink: 0;
 }
-.rectangle30 {
+.rectangle31 {
   height: 0.375rem;
   width: 0.375rem;
   position: absolute;
@@ -82,12 +82,12 @@
   z-index: 1;
 }
 .auto-layout-horizontal-wrapper4,
-.auto-layout-horizontal19 {
+.auto-layout-horizontal38 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.auto-layout-horizontal19 {
+.auto-layout-horizontal38 {
   flex-direction: row;
   position: relative;
 }
@@ -95,28 +95,28 @@
   flex-direction: column;
   padding: var(--padding-xs) var(--padding-5xl) 0 0;
 }
-.frame-icon76 {
+.frame-icon93 {
   width: 1.125rem;
   height: 1.125rem;
   position: relative;
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-wrapper120 {
+.frame-wrapper135 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   padding: var(--padding-xs) var(--padding-5xl) 0 0;
 }
-.frame-icon77 {
+.frame-icon94 {
   width: 1.125rem;
   height: 1.125rem;
   position: relative;
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-wrapper121 {
+.frame-wrapper136 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -147,17 +147,17 @@
   min-width: 7.563rem;
   white-space: nowrap;
 }
-.frame-inner9,
-.frame-parent149 {
+.frame-inner10,
+.frame-parent162 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frame-parent149 {
+.frame-parent162 {
   flex-direction: row;
   gap: var(--gap-4xl-1);
 }
-.frame-inner9 {
+.frame-inner10 {
   flex-direction: column;
   padding: var(--padding-4xs) var(--padding-12xl-2) 0 0;
   color: var(--color-gray-1600);
@@ -173,8 +173,8 @@
   display: inline-block;
   min-width: 0.75rem;
 }
-.auto-layout-horizontal20,
-.frame-icon78 {
+.auto-layout-horizontal39,
+.frame-icon95 {
   position: absolute;
   top: 0;
   left: 0;
@@ -182,7 +182,7 @@
   height: 100%;
   overflow: hidden;
 }
-.frame-icon78 {
+.frame-icon95 {
   margin: 0 !important;
   right: 0;
   bottom: 0;
@@ -191,7 +191,7 @@
   object-fit: cover;
   z-index: 1;
 }
-.auto-layout-horizontal20 {
+.auto-layout-horizontal39 {
   border-radius: var(--br-base);
   background-color: var(--color-chocolate-200);
   display: flex;
@@ -201,7 +201,7 @@
   padding: var(--padding-9xs) var(--padding-3xs);
   box-sizing: border-box;
 }
-.rectangle31 {
+.rectangle32 {
   position: absolute;
   top: 1.375rem;
   left: 1.375rem;
@@ -213,13 +213,13 @@
   height: 0.75rem;
   z-index: 2;
 }
-.frame68 {
+.frame72 {
   align-self: stretch;
   height: 2rem;
   position: relative;
   border-radius: var(--br-base);
 }
-.frame-wrapper122 {
+.frame-wrapper137 {
   width: 2rem;
   display: flex;
   flex-direction: column;
@@ -231,21 +231,21 @@
   font-size: var(--font-size-base-7);
   color: var(--color-white);
 }
-.frame65,
-.frame66 {
+.frame69,
+.frame70 {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   max-width: 100%;
 }
-.frame66 {
+.frame70 {
   flex: 1;
   border-bottom: 1px solid var(--color-gainsboro-900);
   box-sizing: border-box;
   justify-content: center;
   padding: var(--padding-lgi) var(--padding-xl) var(--padding-lg);
 }
-.frame65 {
+.frame69 {
   align-self: stretch;
   background-color: var(--color-white);
   justify-content: flex-start;
@@ -258,7 +258,7 @@
   font-family: var(--font-inter);
 }
 @media screen and (max-width: 1300px) {
-  .frame67 {
+  .frame71 {
     display: none;
   }
 }
