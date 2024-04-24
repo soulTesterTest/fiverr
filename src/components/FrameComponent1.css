@@ -1,0 +1,128 @@
+.phone-1-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.phone-1-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.phone-number {
+  position: relative;
+  line-height: 1.625rem;
+  display: inline-block;
+  min-width: 7.125rem;
+}
+.frame-parent60 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.welnever-share-your {
+  position: relative;
+  line-height: 1.5rem;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.frame-parent59,
+.welnever-share-your-phone-num-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welnever-share-your-phone-num-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  margin-top: -0.125rem;
+  font-size: var(--font-size-mini);
+  color: var(--color-silver-300);
+}
+.frame-parent59 {
+  width: 16.125rem;
+  flex-direction: column;
+}
+.add-phone-number {
+  position: relative;
+  line-height: 1.625rem;
+}
+.button-19 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-1100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-6xs) var(--padding-3xs)
+    var(--padding-xs);
+  white-space: nowrap;
+}
+.finish {
+  position: relative;
+  line-height: 1.625rem;
+  display: inline-block;
+  min-width: 2.75rem;
+}
+.button-21,
+.button-21-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button-21 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-mediumseagreen-100);
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: var(--padding-4xs-5) var(--padding-7xl-5) var(--padding-4xs-5)
+    var(--padding-8xl-5);
+}
+.button-21-wrapper {
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+  color: var(--color-white);
+}
+.button-19-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-39xl);
+}
+.frame-parent58,
+.frame-wrapper38 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-wrapper38 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 0;
+  color: var(--color-dimgray-1100);
+}
+.frame-parent58 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-1500);
+  font-family: var(--font-manrope);
+}
+@media screen and (max-width: 750px) {
+  .frame-parent58 {
+    flex-wrap: wrap;
+  }
+}

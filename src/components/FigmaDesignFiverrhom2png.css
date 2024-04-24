@@ -427,7 +427,7 @@
 .record-set {
   width: 239px;
   flex-direction: column;
-  gap: 11px;
+  gap: var(--gap-2xs);
 }
 .background3 {
   height: 33px;

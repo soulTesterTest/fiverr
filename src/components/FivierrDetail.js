@@ -5,7 +5,11 @@ const FivierrDetail = () => {
     <div className="fivierr-detail">
       <section className="root4">
         <div className="background-parent11">
-          <img className="background-icon18" alt="" src="/background@2x.png" />
+          <img
+            className="background-icon18"
+            alt=""
+            src="/background11@2x.png"
+          />
           <div className="button7">
             <div className="background34" />
             <div className="premlum">Premlum</div>
@@ -15,7 +19,7 @@ const FivierrDetail = () => {
               <img
                 className="background-icon19"
                 alt=""
-                src="/background@2x.png"
+                src="/background12@2x.png"
               />
               <img
                 className="image-icon66"
@@ -28,7 +32,7 @@ const FivierrDetail = () => {
           <img className="image-icon67" alt="" src="/image-114@2x.png" />
           <div className="groups4">
             <div className="image-parent7">
-              <img className="image-icon68" alt="" src="/image@2x.png" />
+              <img className="image-icon68" alt="" src="/image11@2x.png" />
               <div className="image-parent8">
                 <img className="image-icon69" alt="" src="/image-213@2x.png" />
                 <img className="image-icon70" alt="" src="/image-34@2x.png" />
@@ -52,7 +56,7 @@ const FivierrDetail = () => {
             <img className="image-icon75" alt="" src="/image-84@2x.png" />
           </div>
           <div className="image-parent11">
-            <img className="image-icon76" alt="" src="/image@2x.png" />
+            <img className="image-icon76" alt="" src="/image12@2x.png" />
             <img className="image-icon77" alt="" src="/image-93@2x.png" />
           </div>
         </div>
@@ -181,7 +185,7 @@ const FivierrDetail = () => {
                           <img
                             className="background-icon22"
                             alt=""
-                            src="/background@2x.png"
+                            src="/background13@2x.png"
                           />
                           <div className="linked-list">4,683</div>
                         </div>
@@ -199,7 +203,7 @@ const FivierrDetail = () => {
                           <img
                             className="background-icon23"
                             alt=""
-                            src="/background@2x.png"
+                            src="/background14@2x.png"
                           />
                           <h1 className="recursion">.</h1>
                         </div>
@@ -298,7 +302,7 @@ const FivierrDetail = () => {
                     <img
                       className="background-icon24"
                       alt=""
-                      src="/background@2x.png"
+                      src="/background15@2x.png"
                     />
                     <div className="frame-wrapper26">
                       <div className="baslc-parent">
@@ -495,7 +499,7 @@ const FivierrDetail = () => {
           <div className="frame-parent47">
             <div className="groups-container">
               <div className="groups6">
-                <img className="image-icon106" alt="" src="/image@2x.png" />
+                <img className="image-icon106" alt="" src="/image13@2x.png" />
                 <img
                   className="background-icon25"
                   alt=""
@@ -511,7 +515,7 @@ const FivierrDetail = () => {
                       <img
                         className="image-icon107"
                         alt=""
-                        src="/image@2x.png"
+                        src="/image14@2x.png"
                       />
                       <div className="frame-wrapper30">
                         <div className="image-parent17">
@@ -570,7 +574,11 @@ const FivierrDetail = () => {
                 </div>
                 <div className="frame-wrapper32">
                   <div className="image-parent20">
-                    <img className="image-icon115" alt="" src="/image@2x.png" />
+                    <img
+                      className="image-icon115"
+                      alt=""
+                      src="/image15@2x.png"
+                    />
                     <img
                       className="image-icon116"
                       alt=""

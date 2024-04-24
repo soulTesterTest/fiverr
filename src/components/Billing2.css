@@ -321,7 +321,8 @@
 .groups2 {
   flex: 1;
   justify-content: center;
-  padding: var(--padding-mini) var(--padding-xl) var(--padding-base) 36px;
+  padding: var(--padding-mini) var(--padding-xl) var(--padding-base)
+    var(--padding-17xl);
   gap: 21.6px;
   background-image: url(/public/background10@2x.png);
   background-size: cover;
@@ -881,7 +882,7 @@
 }
 @media screen and (max-width: 1200px) {
   .frame-parent35 {
-    gap: 77px;
+    gap: var(--gap-58xl);
   }
 }
 @media screen and (max-width: 1050px) {
@@ -919,7 +920,7 @@
 }
 @media screen and (max-width: 450px) {
   .billing-and-paym2 {
-    font-size: 20px;
+    font-size: var(--font-size-xl);
   }
   .blllling-hlstory-parent {
     flex-wrap: wrap;

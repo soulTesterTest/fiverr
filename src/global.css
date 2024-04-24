@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400&display=swap");
 body {
   margin: 0;
   line-height: normal;
@@ -6,6 +8,8 @@ body {
 :root {
   /* fonts */
   --font-inter: Inter;
+  --font-manrope: Manrope;
+  --font-lexend: Lexend;
 
   /* font sizes */
   --font-size-2xs: 0.688rem;
@@ -22,6 +26,10 @@ body {
   --font-size-base: 1rem;
   --font-size-3xl: 1.375rem;
   --font-size-sm: 0.875rem;
+  --font-size-xl: 1.25rem;
+  --font-size-4xl: 1.438rem;
+  --font-size-mini: 0.938rem;
+  --font-size-11xl: 1.875rem;
 
   /* Colors */
   --color-gray-600: #feffff;
@@ -37,6 +45,7 @@ body {
   --color-gray-200: #919397;
   --color-gray-1100: #7d7f84;
   --color-gray-1400: #252525;
+  --color-gray-1500: #171a1f;
   --color-gray-300: rgba(0, 0, 0, 0);
   --color-darkslategray-200: #4a4b4f;
   --color-darkslategray-300: #48494a;
@@ -69,6 +78,7 @@ body {
   --color-dimgray-200: #636367;
   --color-dimgray-1000: #626366;
   --color-dimgray-300: #5f6063;
+  --color-dimgray-1100: #565d6d;
   --color-dimgray-700: #5c5d60;
   --color-dimgray-400: #58585c;
   --color-dimgray-600: #4f5054;
@@ -93,13 +103,16 @@ body {
   --color-gainsboro-500: #dfe0e2;
   --color-gainsboro-600: #dadadc;
   --color-gainsboro-700: #d8d9db;
+  --color-silver-300: #bdc1ca;
   --color-silver-200: #b4b6ba;
   --color-silver-100: #a7c0af;
   --color-darkolivegreen-100: #245b35;
   --color-darkolivegreen-200: #235b35;
   --color-seagreen: #246239;
   --color-white: #fff;
+  --color-mediumseagreen-100: #1dbf73;
   --color-black: #000;
+  --color-lightslategray: #9095a1;
 
   /* Gaps */
   --gap-xl: 1.25rem;
@@ -121,17 +134,39 @@ body {
   --gap-4xl: 1.437rem;
   --gap-12xl: 1.937rem;
   --gap-xs: 0.75rem;
+  --gap-2xs: 0.687rem;
   --gap-2xl: 1.312rem;
   --gap-13xl: 2rem;
+  --gap-16xl: 2.187rem;
   --gap-mid: 1.062rem;
   --gap-10xs: 0.187rem;
   --gap-6xl: 1.562rem;
+  --gap-28xl: 2.937rem;
   --gap-23xl: 2.625rem;
+  --gap-58xl: 4.812rem;
   --gap-lgi: 1.187rem;
   --gap-20xl: 2.437rem;
   --gap-5xl: 1.5rem;
   --gap-7xs: 0.375rem;
   --gap-22xl: 2.562rem;
+  --gap-135xl: 9.625rem;
+  --gap-89xl: 6.75rem;
+  --gap-69xl: 5.5rem;
+  --gap-93xl: 7rem;
+  --gap-37xl: 3.5rem;
+  --gap-166xl: 11.562rem;
+  --gap-73xl: 5.75rem;
+  --gap-188xl: 12.937rem;
+  --gap-140xl: 9.937rem;
+  --gap-112xl: 8.187rem;
+  --gap-39xl: 3.625rem;
+  --gap-18xl: 2.312rem;
+  --gap-9xs-5: 0.218rem;
+  --gap-10xs-1: 0.131rem;
+  --gap-9xs-8: 0.237rem;
+  --gap-9xs-6: 0.225rem;
+  --gap-43xl: 3.875rem;
+  --gap-7xl: 1.625rem;
 
   /* Paddings */
   --padding-5xs: 0.5rem;
@@ -160,7 +195,26 @@ body {
   --padding-6xl: 1.562rem;
   --padding-lg: 1.125rem;
   --padding-5xl: 1.5rem;
+  --padding-17xl: 2.25rem;
   --padding-mid: 1.062rem;
+  --padding-87xl: 6.625rem;
+  --padding-2xl: 1.312rem;
+  --padding-mini-5: 0.906rem;
+  --padding-9xs-5: 0.218rem;
+  --padding-10xs-5: 0.156rem;
+  --padding-669xl: 43rem;
+  --padding-428xl: 27.937rem;
+  --padding-8xs-5: 0.281rem;
+  --padding-20xl: 2.437rem;
+  --padding-4xs-5: 0.531rem;
+  --padding-7xl-5: 1.656rem;
+  --padding-8xl-5: 1.718rem;
+  --padding-2xs-1: 0.631rem;
+  --padding-11xs-4: 0.087rem;
+  --padding-11xs-5: 0.093rem;
+  --padding-11xs-7: 0.106rem;
+  --padding-11xs-8: 0.112rem;
+  --padding-7xs-5: 0.343rem;
 
   /* Border radiuses */
   --br-11xs-8: 1.8px;
@@ -177,4 +231,6 @@ body {
   --br-10xl-5: 29.5px;
   --br-6xs-3: 6.3px;
   --br-12xs: 1px;
+  --br-9xs: 4px;
+  --br-11xs: 2px;
 }

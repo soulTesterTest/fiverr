@@ -322,7 +322,7 @@
 .frame-parent15 {
   width: 1106px;
   flex-direction: column;
-  gap: 47px;
+  gap: var(--gap-28xl);
   max-width: 100%;
 }
 .image-icon39 {
@@ -670,7 +670,7 @@
 .frame-parent18 {
   align-self: stretch;
   justify-content: flex-start;
-  gap: 35px;
+  gap: var(--gap-16xl);
 }
 .frame-wrapper9 {
   width: 520px;

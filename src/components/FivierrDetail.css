@@ -62,7 +62,7 @@
   padding: var(--padding-63xl) var(--padding-xl) var(--padding-65xl)
     var(--padding-4xl);
   box-sizing: border-box;
-  background-image: url(/public/background@2x.png);
+  background-image: url(/public/background12@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -206,7 +206,7 @@
     var(--padding-7xs);
   position: relative;
   gap: var(--gap-12xs);
-  background-image: url(/public/image@2x.png);
+  background-image: url(/public/image11@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -268,7 +268,7 @@
   left: 250px;
   padding: var(--padding-xs) var(--padding-6xl);
   box-sizing: border-box;
-  background-image: url(/public/image@2x.png);
+  background-image: url(/public/image12@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -748,7 +748,7 @@
   justify-content: flex-start;
   padding: var(--padding-9xs) var(--padding-7xs) var(--padding-6xs)
     var(--padding-sm);
-  background-image: url(/public/background@2x.png);
+  background-image: url(/public/background13@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -817,7 +817,7 @@
   justify-content: flex-start;
   padding: var(--padding-6xs) var(--padding-5xs) var(--padding-4xs)
     var(--padding-2xs);
-  background-image: url(/public/background@2x.png);
+  background-image: url(/public/background14@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1068,7 +1068,7 @@
 .strings {
   width: 498px;
   flex-direction: row;
-  padding: 0 21px;
+  padding: 0 var(--padding-2xl);
   box-sizing: border-box;
 }
 .image-icon92,
@@ -1558,7 +1558,8 @@
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: var(--padding-7xs) var(--padding-3xl) var(--padding-4xs) 106px;
+  padding: var(--padding-7xs) var(--padding-3xl) var(--padding-4xs)
+    var(--padding-87xl);
   gap: var(--gap-xl);
   z-index: 2;
 }
@@ -1610,7 +1611,7 @@
   padding: var(--padding-sm) var(--padding-mid) var(--padding-lgi);
   box-sizing: border-box;
   gap: var(--gap-22xl);
-  background-image: url(/public/background@2x.png);
+  background-image: url(/public/background15@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1769,7 +1770,7 @@
   align-self: stretch;
   flex-direction: row;
   padding: var(--padding-10xs) var(--padding-9xs);
-  background-image: url(/public/image@2x.png);
+  background-image: url(/public/image13@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1900,7 +1901,7 @@
   justify-content: space-between;
   padding: var(--padding-11xs) var(--padding-10xs) var(--padding-5xs)
     var(--padding-5xs);
-  background-image: url(/public/image@2x.png);
+  background-image: url(/public/image14@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1977,7 +1978,7 @@
   width: 17px;
   height: 38px;
   position: relative;
-  background-image: url(/public/image@2x.png);
+  background-image: url(/public/image15@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -2218,7 +2219,7 @@
 }
 @media screen and (max-width: 450px) {
   .recursion {
-    font-size: 23px;
+    font-size: var(--font-size-4xl);
   }
   .i-will-create-container {
     font-size: var(--font-size-mid);

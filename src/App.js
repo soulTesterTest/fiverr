@@ -5,7 +5,9 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import FrameComponent from "./components/FrameComponent";
+import ConversionOutput from "./pages/ConversionOutput";
+import ConversionOutput1 from "./pages/ConversionOutput1";
+import ConversionOutput2 from "./pages/ConversionOutput2";
 
 function App() {
   const action = useNavigationType();
@@ -27,6 +29,14 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+      case "/conversion-output-1":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/conversion-output-2":
+        title = "";
+        metaDescription = "";
+        break;
     }
 
     if (title) {
@@ -45,7 +55,9 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<FrameComponent />} />
+      <Route path="/" element={<ConversionOutput />} />
+      <Route path="/conversion-output-1" element={<ConversionOutput1 />} />
+      <Route path="/conversion-output-2" element={<ConversionOutput2 />} />
     </Routes>
   );
 }
