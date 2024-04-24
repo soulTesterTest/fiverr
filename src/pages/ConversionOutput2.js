@@ -1,4 +1,4 @@
-import FrameComponent1 from "../components/FrameComponent1";
+import FrameComponent1 from "../components/FrameComponent11";
 import "./ConversionOutput2.css";
 
 const ConversionOutput2 = () => {

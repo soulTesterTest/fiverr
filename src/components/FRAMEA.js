@@ -12,7 +12,7 @@ const FRAMEA = () => {
               alt=""
               src="/info-2.svg"
             />
-            <div className="frame-parent53">
+            <div className="frame-parent113">
               <div className="question-mark-2-wrapper">
                 <img
                   className="question-mark-2"
@@ -37,7 +37,7 @@ const FRAMEA = () => {
           </div>
         </div>
       </div>
-      <div className="frame-parent54">
+      <div className="frame-parent114">
         <div className="personal-info-wrapper">
           <h2 className="personal-info1">Personal Info</h2>
         </div>
@@ -53,7 +53,7 @@ const FRAMEA = () => {
       </div>
       <div className="name-container-wrapper">
         <div className="name-container">
-          <div className="frame-parent55">
+          <div className="frame-parent115">
             <div className="fullname-myote-parent">
               <div className="fullname-myote">FullName* myote</div>
               <div className="disphy-name">Disphy Name*</div>
@@ -64,7 +64,7 @@ const FRAMEA = () => {
             </div>
           </div>
           <div className="name-container-inner">
-            <div className="frame-parent56">
+            <div className="frame-parent116">
               <div className="first-last-name-container-wrapper">
                 <div className="first-last-name-container">
                   <div className="container-29">
@@ -85,8 +85,8 @@ const FRAMEA = () => {
                   alt=""
                   src="/image-342@2x.png"
                 />
-                <div className="frame-wrapper37">
-                  <div className="frame-parent57">
+                <div className="frame-wrapper106">
+                  <div className="frame-parent117">
                     <div className="heyjyedy-wrapper">
                       <div className="heyjyedy">heyjyedy</div>
                     </div>
@@ -96,8 +96,8 @@ const FRAMEA = () => {
               </div>
             </div>
           </div>
-          <div className="wrapper1">
-            <div className="div3">0/000</div>
+          <div className="wrapper14">
+            <div className="div34">0/000</div>
           </div>
         </div>
       </div>

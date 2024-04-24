@@ -8,6 +8,7 @@ import {
 import ConversionOutput from "./pages/ConversionOutput";
 import ConversionOutput1 from "./pages/ConversionOutput1";
 import ConversionOutput2 from "./pages/ConversionOutput2";
+import Fiverr from "./pages/Fiverr";
 
 function App() {
   const action = useNavigationType();
@@ -37,6 +38,10 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+      case "/fiverr-9":
+        title = "";
+        metaDescription = "";
+        break;
     }
 
     if (title) {
@@ -58,6 +63,7 @@ function App() {
       <Route path="/" element={<ConversionOutput />} />
       <Route path="/conversion-output-1" element={<ConversionOutput1 />} />
       <Route path="/conversion-output-2" element={<ConversionOutput2 />} />
+      <Route path="/fiverr-9" element={<Fiverr />} />
     </Routes>
   );
 }

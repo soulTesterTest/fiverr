@@ -908,7 +908,7 @@
 }
 .frame-parent26 {
   width: 518px;
-  gap: 34px;
+  gap: var(--gap-15xl);
 }
 .billing-2,
 .frame-parent26,

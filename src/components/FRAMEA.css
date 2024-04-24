@@ -26,7 +26,7 @@
   line-height: 1.625rem;
   margin-left: -0.188rem;
 }
-.frame-parent53 {
+.frame-parent113 {
   position: absolute;
   top: 0;
   left: 8.25rem;
@@ -126,7 +126,7 @@
   color: var(--color-silver-300);
   display: inline-block;
 }
-.frame-parent54 {
+.frame-parent114 {
   width: 21.563rem;
   display: flex;
   flex-direction: column;
@@ -167,7 +167,7 @@
 .desoription {
   min-width: 5.125rem;
 }
-.frame-parent55,
+.frame-parent115,
 .profile-picture-parent {
   display: flex;
   flex-direction: column;
@@ -176,7 +176,7 @@
   gap: var(--gap-140xl);
   font-size: var(--font-size-sm);
 }
-.frame-parent55 {
+.frame-parent115 {
   padding: 0 var(--padding-20xl) 0 0;
   gap: var(--gap-188xl);
   font-size: var(--font-size-mini);
@@ -277,21 +277,21 @@
   display: inline-block;
   min-width: 6.063rem;
 }
-.frame-parent57,
-.frame-wrapper37 {
+.frame-parent117,
+.frame-wrapper106 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frame-parent57 {
+.frame-parent117 {
   flex-direction: column;
   gap: var(--gap-69xl);
 }
-.frame-wrapper37 {
+.frame-wrapper106 {
   flex-direction: row;
   padding: 0 var(--padding-11xs);
 }
-.frame-parent56,
+.frame-parent116,
 .image-34-parent,
 .name-container-inner {
   display: flex;
@@ -304,11 +304,11 @@
   font-size: var(--font-size-mini);
   color: var(--color-dimgray-1100);
 }
-.frame-parent56,
+.frame-parent116,
 .name-container-inner {
   max-width: 100%;
 }
-.frame-parent56 {
+.frame-parent116 {
   align-self: stretch;
   gap: var(--gap-135xl);
 }
@@ -317,18 +317,18 @@
   padding: var(--padding-11xs) 0 0;
   box-sizing: border-box;
 }
-.div3 {
+.div34 {
   position: relative;
   line-height: 1.375rem;
   display: inline-block;
   min-width: 2.375rem;
 }
 .name-container,
-.wrapper1 {
+.wrapper14 {
   display: flex;
   align-items: flex-start;
 }
-.wrapper1 {
+.wrapper14 {
   flex-direction: column;
   justify-content: flex-start;
   padding: var(--padding-669xl) 0 0;
@@ -374,10 +374,10 @@
   .first-last-name-container {
     gap: var(--gap-37xl);
   }
-  .frame-parent56 {
+  .frame-parent116 {
     gap: var(--gap-58xl);
   }
-  .wrapper1 {
+  .wrapper14 {
     padding-top: var(--padding-428xl);
     box-sizing: border-box;
   }

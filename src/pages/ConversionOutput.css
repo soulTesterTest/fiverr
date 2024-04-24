@@ -47,7 +47,7 @@
   justify-content: flex-start;
 }
 .languages-container {
-  gap: 5.062rem;
+  gap: var(--gap-62xl);
 }
 .add-language-button {
   padding: var(--padding-7xs) 0 0;

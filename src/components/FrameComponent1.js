@@ -2,9 +2,9 @@ import "./FrameComponent1.css";
 
 const FrameComponent = () => {
   return (
-    <div className="frame-parent58">
-      <div className="frame-parent59">
-        <div className="frame-parent60">
+    <div className="frame-parent118">
+      <div className="frame-parent119">
+        <div className="frame-parent120">
           <div className="phone-1-wrapper">
             <img
               className="phone-1-icon"
@@ -21,7 +21,7 @@ const FrameComponent = () => {
           </div>
         </div>
       </div>
-      <div className="frame-wrapper38">
+      <div className="frame-wrapper107">
         <div className="button-19-parent">
           <div className="button-19">
             <div className="add-phone-number">Add Phone Number</div>

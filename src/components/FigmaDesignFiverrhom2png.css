@@ -1767,7 +1767,7 @@
 }
 .parallelizer {
   align-self: stretch;
-  gap: 36px;
+  gap: var(--gap-17xl);
 }
 .sequentializer {
   flex: 1;
