@@ -90,7 +90,7 @@
   position: relative;
   max-width: 100%;
   font-size: var(--font-size-xs);
-  color: #b4b6ba;
+  color: var(--color-silver-200);
 }
 .image-icon2 {
   width: 15px;
@@ -169,7 +169,7 @@
   justify-content: flex-end;
   padding: 0 0 var(--padding-6xs);
   font-size: var(--font-size-smi);
-  color: #919399;
+  color: var(--color-gray-1300);
 }
 .control-flow-parent,
 .output-cluster {
@@ -237,7 +237,7 @@
   z-index: 1;
 }
 .video-animati {
-  color: #939599;
+  color: var(--color-darkgray-2000);
   min-width: 116px;
 }
 .aggregator {
@@ -883,7 +883,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: var(--padding-3xs) var(--padding-2xs) 82px;
+  padding: var(--padding-3xs) var(--padding-2xs) var(--padding-63xl);
   box-sizing: border-box;
   background-image: url(/public/image4@2x.png);
   background-size: cover;

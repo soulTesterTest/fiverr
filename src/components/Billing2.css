@@ -235,20 +235,18 @@
 }
 .video-animatio2,
 .writing-transl2 {
+  width: 117px;
   position: relative;
+  color: var(--color-darkgray-1300);
   display: flex;
   align-items: center;
   flex-shrink: 0;
   white-space: nowrap;
   z-index: 1;
 }
-.video-animatio2 {
-  width: 117px;
-  color: var(--color-darkgray-1300);
-}
 .writing-transl2 {
   width: 129px;
-  color: #a7a8ab;
+  color: var(--color-darkgray-1700);
 }
 .music-audio3 {
   color: var(--color-darkgray-1200);
@@ -325,7 +323,7 @@
   justify-content: center;
   padding: var(--padding-mini) var(--padding-xl) var(--padding-base) 36px;
   gap: 21.6px;
-  background-image: url(/public/background@2x.png);
+  background-image: url(/public/background10@2x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -602,8 +600,8 @@
   background-color: var(--color-white);
   border: 1px solid var(--color-whitesmoke-300);
   box-sizing: border-box;
-  padding: var(--padding-base) var(--padding-4xl) 37px 24px;
-  gap: 41px;
+  padding: var(--padding-base) var(--padding-4xl) 37px var(--padding-5xl);
+  gap: var(--gap-22xl);
   max-width: 100%;
   z-index: 1;
   font-size: var(--font-size-xs);
@@ -716,7 +714,7 @@
   background-color: var(--color-gray-100);
   border: 1px solid var(--color-whitesmoke-200);
   box-sizing: border-box;
-  padding: 18px var(--padding-6xl) var(--padding-lgi);
+  padding: var(--padding-lg) var(--padding-6xl) var(--padding-lgi);
   gap: var(--gap-6xl);
   max-width: 100%;
   z-index: 2;
@@ -754,7 +752,7 @@
   padding: 0 var(--padding-6xl);
   box-sizing: border-box;
   max-width: 100%;
-  font-size: 16px;
+  font-size: var(--font-size-base);
   color: #58595d;
 }
 .background33 {
@@ -911,11 +909,11 @@
     gap: var(--gap-base);
   }
   .frame-parent35 {
-    gap: 39px;
+    gap: var(--gap-20xl);
   }
   .root3 {
     padding-top: var(--padding-xl);
-    padding-bottom: 84px;
+    padding-bottom: var(--padding-65xl);
     box-sizing: border-box;
   }
 }
@@ -945,6 +943,6 @@
     min-width: 100%;
   }
   .frame-parent35 {
-    gap: 19px;
+    gap: var(--gap-lgi);
   }
 }

@@ -17,6 +17,9 @@ body {
   --font-size-lgi: 1.188rem;
   --font-size-5xl: 1.5rem;
   --font-size-6xl: 1.563rem;
+  --font-size-2xl: 1.313rem;
+  --font-size-mid: 1.063rem;
+  --font-size-base: 1rem;
   --font-size-3xl: 1.375rem;
   --font-size-sm: 0.875rem;
 
@@ -27,19 +30,28 @@ body {
   --color-gray-800: #fefeff;
   --color-gray-500: rgba(254, 254, 254, 1);
   --color-gray-100: #fefefe;
+  --color-gray-1200: #fafafa;
   --color-gray-900: #939498;
   --color-gray-1000: #929398;
+  --color-gray-1300: #919399;
   --color-gray-200: #919397;
   --color-gray-1100: #7d7f84;
+  --color-gray-1400: #252525;
   --color-gray-300: rgba(0, 0, 0, 0);
   --color-darkslategray-200: #4a4b4f;
+  --color-darkslategray-300: #48494a;
   --color-darkslategray-100: #464749;
+  --color-darkgray-1500: #b2b2bd;
+  --color-darkgray-1600: #b2b2b2;
   --color-darkgray-400: #a8aaaf;
   --color-darkgray-1100: #a7a9ae;
+  --color-darkgray-1700: #a7a8ab;
   --color-darkgray-600: #a3a4a7;
   --color-darkgray-500: #a2a3a7;
+  --color-darkgray-1800: #9ea0a3;
   --color-darkgray-100: #9fa0a1;
   --color-darkgray-700: #9c9da1;
+  --color-darkgray-1900: #9b9ca0;
   --color-darkgray-800: #9a9ca0;
   --color-darkgray-200: #9a9b9f;
   --color-darkgray-900: #999a9e;
@@ -48,19 +60,26 @@ body {
   --color-darkgray-300: #96979b;
   --color-darkgray-1000: #95969a;
   --color-darkgray-1400: #94969a;
+  --color-darkgray-2000: #939599;
   --color-sienna-100: #975f33;
   --color-navajowhite: #fedfb2;
   --color-dimgray-100: #6a6b6e;
   --color-dimgray-500: #696a6d;
+  --color-dimgray-900: #636465;
   --color-dimgray-200: #636367;
+  --color-dimgray-1000: #626366;
   --color-dimgray-300: #5f6063;
   --color-dimgray-700: #5c5d60;
   --color-dimgray-400: #58585c;
   --color-dimgray-600: #4f5054;
   --color-dimgray-800: #4c4d51;
+  --color-whitesmoke-400: #f9f9fa;
   --color-whitesmoke-100: #f4f4f4;
   --color-whitesmoke-200: #f3f3f4;
   --color-whitesmoke-300: #f2f3f3;
+  --color-whitesmoke-500: #f1f2f3;
+  --color-lightgray-500: #d4d5d7;
+  --color-lightgray-600: #d4d4d6;
   --color-lightgray-100: #d3d4d6;
   --color-lightgray-400: #d2d2d4;
   --color-lightgray-200: #d1d2d5;
@@ -68,11 +87,13 @@ body {
   --color-lightgray: #c5d3c9;
   --color-gainsboro-200: #e3e4e5;
   --color-gainsboro-300: #e2e3e4;
+  --color-gainsboro-800: #e2e2e4;
   --color-gainsboro-400: #e1e2e3;
   --color-gainsboro-100: #e1e1e3;
   --color-gainsboro-500: #dfe0e2;
   --color-gainsboro-600: #dadadc;
   --color-gainsboro-700: #d8d9db;
+  --color-silver-200: #b4b6ba;
   --color-silver-100: #a7c0af;
   --color-darkolivegreen-100: #245b35;
   --color-darkolivegreen-200: #235b35;
@@ -106,8 +127,11 @@ body {
   --gap-10xs: 0.187rem;
   --gap-6xl: 1.562rem;
   --gap-23xl: 2.625rem;
+  --gap-lgi: 1.187rem;
+  --gap-20xl: 2.437rem;
   --gap-5xl: 1.5rem;
   --gap-7xs: 0.375rem;
+  --gap-22xl: 2.562rem;
 
   /* Paddings */
   --padding-5xs: 0.5rem;
@@ -125,13 +149,18 @@ body {
   --padding-4xl: 1.437rem;
   --padding-8xs: 0.312rem;
   --padding-7xs: 0.375rem;
+  --padding-63xl: 5.125rem;
   --padding-mini: 0.937rem;
   --padding-base: 1rem;
   --padding-xs: 0.75rem;
   --padding-smi: 0.812rem;
   --padding-3xl: 1.375rem;
   --padding-lgi: 1.187rem;
+  --padding-65xl: 5.25rem;
   --padding-6xl: 1.562rem;
+  --padding-lg: 1.125rem;
+  --padding-5xl: 1.5rem;
+  --padding-mid: 1.062rem;
 
   /* Border radiuses */
   --br-11xs-8: 1.8px;
@@ -144,4 +173,8 @@ body {
   --br-10xs: 3px;
   --br-11xs-5: 1.5px;
   --br-mini: 15px;
+  --br-5xl-8: 24.8px;
+  --br-10xl-5: 29.5px;
+  --br-6xs-3: 6.3px;
+  --br-12xs: 1px;
 }

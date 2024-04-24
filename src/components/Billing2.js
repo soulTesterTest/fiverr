@@ -4,7 +4,7 @@ const Billing = () => {
   return (
     <div className="billing-3">
       <section className="root3">
-        <img className="background-icon15" alt="" src="/background@2x.png" />
+        <img className="background-icon15" alt="" src="/background9@2x.png" />
         <div className="root-inner1">
           <div className="frame-parent32">
             <div className="fiverr-frame">
@@ -63,7 +63,7 @@ const Billing = () => {
             <img
               className="background-icon17"
               alt=""
-              src="/background@2x.png"
+              src="/background10@2x.png"
             />
             <div className="graphics-desig1">{`Graphics & Design`}</div>
             <div className="programming-t2">{` Programming & Tech`}</div>

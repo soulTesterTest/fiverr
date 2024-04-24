@@ -289,7 +289,7 @@
   flex-direction: column;
   padding: var(--padding-12xs) 0 0;
   font-size: var(--font-size-smi);
-  color: #9ea0a3;
+  color: var(--color-darkgray-1800);
 }
 .graphics-desig-parent {
   align-self: stretch;
@@ -1024,7 +1024,7 @@
   flex: 1;
 }
 .is-up-to {
-  color: #9b9ca0;
+  color: var(--color-darkgray-1900);
   display: inline-block;
   min-width: 82px;
 }
@@ -1068,7 +1068,7 @@
   align-items: flex-start;
   justify-content: center;
   padding: 0 var(--padding-xl) 0 var(--padding-4xl);
-  font-size: 21px;
+  font-size: var(--font-size-2xl);
   color: #4e4e52;
 }
 .date-range-serv {
@@ -1161,7 +1161,7 @@
     flex-wrap: wrap;
   }
   .no-invoices-yet {
-    font-size: 17px;
+    font-size: var(--font-size-mid);
   }
   .root1 {
     padding-left: var(--padding-xl);
